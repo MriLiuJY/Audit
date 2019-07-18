@@ -1,0 +1,15 @@
+{
+  "name": "audit",
+  "version": "0.0.1",
+  "description": "Client tracking",
+  "main": "dist/audit.0.0.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "audit"
+  ],
+  "author": "jykid",
+  "license": "MIT"
+}
