@@ -1,1 +1,1 @@
-console.log("test git hook");
+console.log("test git hook!");
